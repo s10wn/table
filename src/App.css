@@ -1,0 +1,23 @@
+.ant-pagination-options {
+  display: none !important;
+}
+.ant-table-thead .ant-table-cell {
+  background: #474955 !important;
+  text-align: center;
+  color: #fff;
+}
+.ant-input {
+  background: #474955 !important;
+  color: #fff !important;
+  width: 100%;
+  border: 1px solid #474955 !important;
+}
+.ant-btn {
+  border: 1px solid #474955 !important;
+
+  color: #fff !important;
+  background: #474955 !important;
+}
+.ant-input-search {
+  width: 30% !important;
+}
